@@ -1,0 +1,22 @@
+'''
+Dynamic
+General purpose
+Interpreted
+Interactive
+Strongly Typed
+Object-oriented (OOPs)
+High-level programming language
+Created By Guido van Rossum in the late eighties and early nineties
+License - GNU GPL
+whitespace indentation (4)
+CPython commonly know as python
+Implementations - CPython, Jython, Ironpython, PyPy
+CPython - Implemented in c (Uses PVM)
+Jython - Implemented in Java (Uses JVM)
+Ironpython - Implemented in C# (Uses .net DLR -- Dynamic CLR)
+PyPy - Implemented in Python (Uses JIT)
+Production Version - 2.7.X
+Latest Version - 3.X
+Follows - PEP 8
+Zen of python
+'''

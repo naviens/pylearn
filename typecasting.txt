@@ -1,0 +1,22 @@
+>>> a = 10
+>>> type(a)
+<type 'int'>
+>>> type(str(a))
+<type 'str'>
+>>> a = "10"
+>>> type(a)
+<type 'str'>
+>>> type(int(a))
+<type 'int'>
+>>> a = [1,2]
+>>> type(a)
+<type 'list'>
+>>> type(tuple(a))
+<type 'tuple'>
+>>> a = (1,2)
+>>> type(a)
+<type 'tuple'>
+>>> type(list(a))
+<type 'list'>
+>>> 
+
