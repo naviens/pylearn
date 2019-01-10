@@ -4,8 +4,10 @@ __author__ = 'naveen'
 
 '''
 Numbers
+Bytes
 String
 List
+Set
 Tuple
 Dictionary'''
 
